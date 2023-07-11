@@ -13,9 +13,17 @@ Este repositório foi criado para o desenvolvimento do segundo módulo de Progra
 
 # Foram feitos os exercícios no LeetCode
 
-## []() 
+## [416. Partition Equal Subset Sum (Medium)](https://leetcode.com/problems/partition-equal-subset-sum/description/) 
 
-![]()
+O objetivo deste problema é determinar se é possível dividir um array de números inteiros em dois subconjuntos, de forma que a soma dos elementos em cada subconjunto seja igual. A abordagem utilizada para resolver esse problema é baseada em programação dinâmica. 
+
+![416. Partition Equal Subset Sum](/images/416.jpeg)
+
+## [139. Word Break (Medium)](https://leetcode.com/problems/word-break/description/) 
+
+Este exercício foi resolvido utilizando programação dinâmica. A ideia principal é construir uma tabela de memoização para verificar se cada prefixo da string pode ser formado por palavras presentes em um conjunto. A complexidade de tempo da solução típica é O(n^2), onde n é o comprimento da string.
+
+![139. Word Break](/images/139.jpeg)
 
 # Instalação
 
