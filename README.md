@@ -21,7 +21,7 @@ O objetivo deste problema é determinar se é possível dividir um array de núm
 
 ## [139. Word Break (Medium)](https://leetcode.com/problems/word-break/description/) 
 
-Este exercício foi resolvido utilizando programação dinâmica. A ideia principal é construir uma tabela de memoização para verificar se cada prefixo da string pode ser formado por palavras presentes em um conjunto. A complexidade de tempo da solução típica é O(n^2), onde n é o comprimento da string.
+Este exercício foi resolvido utilizando programação dinâmica. A ideia principal é construir uma tabela de memorização para verificar se cada prefixo da string pode ser formado por palavras presentes em um conjunto. A complexidade de tempo da solução típica é O(n^2), onde n é o comprimento da string.
 
 ![139. Word Break](/images/139.jpeg)
 
