@@ -13,15 +13,11 @@ Este repositório foi criado para o desenvolvimento do segundo módulo de Progra
 
 # Foram feitos os exercícios no LeetCode
 
-## [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) 
+## [416. Partition Equal Subset Sum (Medium)](https://leetcode.com/problems/partition-equal-subset-sum/description/) 
 
-![787. Cheapest Flights Within K Stops](/images/787.png)
+O objetivo deste problema é determinar se é possível dividir um array de números inteiros em dois subconjuntos, de forma que a soma dos elementos em cada subconjunto seja igual. A abordagem utilizada para resolver esse problema é baseada em programação dinâmica. 
 
-
-
-## [743. Network Delay Time)](https://leetcode.com/problems/network-delay-time/description/) 
-
-![743. Network Delay Time](/images/743.png)
+![416. Partition Equal Subset Sum](/images/416.jpeg)
 
 ## [139. Word Break (Medium)](https://leetcode.com/problems/word-break/description/) 
 
@@ -29,6 +25,16 @@ Este exercício foi resolvido utilizando programação dinâmica. A ideia princi
 
 ![139. Word Break](/images/139.jpeg)
 
+## [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) 
+
+Este exercício, "Cheapest Flights Within K Stops", utiliza programação dinâmica para determinar o preço mais barato para viajar de uma cidade de origem para uma cidade de destino, considerando um número máximo de paradas permitido. Através da construção de uma tabela de memorização, é verificado o custo mínimo para alcançar cada cidade, levando em conta os voos disponíveis. Caso não exista um caminho possível dentro dos critérios estabelecidos, o resultado retornado será -1.
+
+![787. Cheapest Flights Within K Stops](/images/787.png)
+
+## [743. Network Delay Time)](https://leetcode.com/problems/network-delay-time/description/) 
+
+O objetivo é determinar o tempo mínimo necessário para que todos os nós recebam o sinal a partir de um nó de origem específico. O tempo de transmissão é fornecido para cada conexão entre os nós, e o problema é resolvido utilizando o algoritmo de Bellman-Ford para encontrar o caminho mais curto em um grafo ponderado direcionado. Através de iterações, o algoritmo atualiza as distâncias entre os nós até encontrar as distâncias mais curtas possíveis, levando em consideração os tempos de transmissão. Caso não seja possível que todos os nós recebam o sinal, o resultado retornado é -1.
+![743. Network Delay Time](/images/743.png)
 # Instalação
 
 Pré-Requisitos: Os códigos devem ser rodados na própria plataforma do leetcode, tendo em vista o uso de uma classe Solution, bem como o uso correto dos inputs por parte da plataforma.
