@@ -13,11 +13,15 @@ Este repositório foi criado para o desenvolvimento do segundo módulo de Progra
 
 # Foram feitos os exercícios no LeetCode
 
-## [416. Partition Equal Subset Sum (Medium)](https://leetcode.com/problems/partition-equal-subset-sum/description/) 
+## [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) 
 
-O objetivo deste problema é determinar se é possível dividir um array de números inteiros em dois subconjuntos, de forma que a soma dos elementos em cada subconjunto seja igual. A abordagem utilizada para resolver esse problema é baseada em programação dinâmica. 
+![787. Cheapest Flights Within K Stops](/images/787.png)
 
-![416. Partition Equal Subset Sum](/images/416.jpeg)
+
+
+## [743. Network Delay Time)](https://leetcode.com/problems/network-delay-time/description/) 
+
+![743. Network Delay Time](/images/743.png)
 
 ## [139. Word Break (Medium)](https://leetcode.com/problems/word-break/description/) 
 
